@@ -1,0 +1,16 @@
+﻿Category;Data;Accessibility;Coverage
+Epidemiological;Primary care data;2;7
+Epidemiological;Secondar/tertiary care data;2;6
+Epidemiological;App-based health data;2;5
+Biological;Antibody/immunity;3;4
+Biological;Metatranscriptomic data;5;3
+Biological;Human genomic data;3;2
+Biological;Pathogen genomic data;7;6
+Biological;Metagenomic data;7;5
+Epidemiological;Routine surveillance data;5;10
+Social;Online search;7;10
+Social;Human mobility data;5;14
+Biological;Wastewater data;7;14
+Epidemiological;Prevalence surveys;5;16
+Social;Census data;9;17
+Environmental;Weather/climate data;8;19

@@ -1,0 +1,16 @@
+﻿Surveillance source;Type;Data quality;Coverage for high risk
+Transdisciplinary epidemiology;Environmental;9;19
+Transdisciplinary epidemiology;Social;8,5;18
+Transdisciplinary epidemiology;Molecular;9;18
+Patient data;Environmental;9;3
+Patient data;Social;8,5;4
+Patient data;Molecular;9;4
+Wastewater surveillance;Environmental;2;19
+Wastewater surveillance;Molecular;2;18,5
+Prevalence surveys;Environmental;6;18
+Prevalence surveys;Social;10;18
+Census;Environmental;5;19
+Census;Social;9;19
+Online (searches + mobility);Social;2;7
+Online (searches + mobility);Environmental;5;7
+Vaccination registry;Social;4;9
