@@ -16,3 +16,6 @@ Code using this data source is stored in Analysis Reports and Analyses_Sample_CO
 
 ## Sequencing analyses
 This holds data collected from Sequencing pipeline, raw sequence data is stored on European Nucleotide Archive (ENA) database under accession PRJEB130317, code for processing sequence data is currently under publication and will be shared upon request.
+
+## Survey
+This holds data collected from the social surveys, raw sequence data is stored in csv files, analyses can be tracked in the JASP files.
