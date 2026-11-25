@@ -19,3 +19,6 @@ This holds data collected from Sequencing pipeline, raw sequence data is stored 
 
 ## Survey
 This holds data collected from the social surveys, raw sequence data is stored in csv files, analyses can be tracked in the JASP files.
+
+## TdVisual
+This holds data collected from all interactions and the code for generating Figure 4a and Supplementary Figure 9
